@@ -1,4 +1,13 @@
 .sidebar {
     color: darkblue;
     background-color: blanchedalmond;
+    border: 4px solid black;
+    padding: 4px;
+    margin: 12px;
 }
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+      }
